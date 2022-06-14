@@ -24,3 +24,15 @@ I also think AGI must can do something,something people need it to do.
 And it need to do it so good as human level,so it must has the same kind information process ability like human.
 
 That is the two basic point about AGI.
+
+1.Change it self due to external information change,never stop.
+
+2.Learn from the information change that never stops.
+
+2.Generate the information sturcture to solve human level problem.
+
+We,human ,is a kind of general intelligence,we can create some thing that never exists by combing two thing we know.
+AGI also need to have this ability,the ability of link.
+Link any two thing randomly,and you combine it as a new thing you created.
+
+
